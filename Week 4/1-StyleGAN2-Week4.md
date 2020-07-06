@@ -26,7 +26,7 @@
 ([24m](https://youtu.be/FUwSBU5TrT4?t=1440)) Projection
 ([25m30s](https://youtu.be/FUwSBU5TrT4?t=1530)) Projection Visual Explanation
 ([27m41s](https://youtu.be/FUwSBU5TrT4?t=1661)) Demo: Vector to Vector Projection
-([29m](https://youtu.be/FUwSBU5TrT4?t=1740)) Google Colab StyleGAN2 Manipulation Walkthrough
+([29m](https://youtu.be/FUwSBU5TrT4?t=1740)) Walkthrough: Google Colab StyleGAN2 Manipulation
 ([37m29s](https://youtu.be/FUwSBU5TrT4?t=2249)) Google Colab Walkthrough Output
 ([40m10s](https://youtu.be/FUwSBU5TrT4?t=2410)) .Npy vector file
 ([43m06s](https://youtu.be/FUwSBU5TrT4?t=2586)) Interpolate using .npy vector files
@@ -35,7 +35,7 @@
 
 **Audio Reaction**
 ([1h19s](https://youtu.be/FUwSBU5TrT4?t=3619)) Demo: Audio Reaction
-([1h55s](https://youtu.be/FUwSBU5TrT4?t=3655)) Google Colab Walkthrough
+([1h55s](https://youtu.be/FUwSBU5TrT4?t=3655)) Walkthrough: Google Colab
 ([1h12m11s](https://youtu.be/FUwSBU5TrT4?t=4331)) Interpolate the truncation value with Audio
 ([1h19m09s](https://youtu.be/FUwSBU5TrT4?t=4749)) Saving Cost on GCP vm if your not using it
 ([1h20m06s](https://youtu.be/FUwSBU5TrT4?t=4806)) Q&A
